@@ -1,0 +1,9 @@
+Partlist exported from /var/folders/mj/j9vztypn20jbqm73_nlfdz1m0000gn/T/Neutron/ElectronFileOutput/35483/sch-7b0e7dcb-4f32-44a7-8efc-a00ce9dc98f3/DigiStumpRGBSchematic v7.sch at 31/01/2021 17:39
+
+Qty Value     Device         Package      Parts      Description
+1             691101710003   691101710003 J1         WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular
+3             RESISTORS0204V 0204V        R4, R5, R6 RESISTOR, European symbol
+1   DIGISPARK DIGISPARK      DIGISPARK    U$1        Digispark
+3   EVUF2A    EVUF2A         EVUF         R1, R2, R3 9 mm Square Rotary Potentiometers
+3   NMOSFET   NMOSFET_TO92   TO92-2.54MM  Q1, Q2, Q3 N-Channel MOSFET - Generic
+1   PINHD-1X4 PINHD-1X4      1X04         JP1        PIN HEADER
